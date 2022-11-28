@@ -4,8 +4,7 @@
 
 ## Links and Resources
 
-    Pull Request
-    Class Repo
+   [Pull Request Link](https://github.com/asadhijj/django-snacks/pull/2)
 
 ## Setup
 
